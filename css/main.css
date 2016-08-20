@@ -1,0 +1,28 @@
+div {
+        margin-top: 200px;
+	    margin-bottom: 200px;
+	    margin-left: 300px;
+	    margin-right: 200px;
+	}
+
+div {
+        width: 600px;
+	    border: 6px solid;
+		color: #dc0aa8;
+		padding-top: 15px;
+        padding-left: 50px;
+        padding-bottom: 30px;
+        padding-right: 10px;
+        background-color: #fbc78f;
+        border-width: 8px 3px;   
+    }
+
+div p {
+    	text-align: center;
+        border-style: dotted;
+        background-color: #f5f7eb;
+        color: #040404;
+        padding-top: 5px;
+        padding-bottom: 5px;
+
+      }
